@@ -1,6 +1,6 @@
 .navbar-brand {
     background-color: #4aaaa5;
-    margin-left: 13%;
+    margin-left: 22%;
     margin-top: 0px;
     margin-bottom: 0px;
     padding: 10px 30px 10px;
@@ -14,7 +14,7 @@
 }
 
 #masthead {
-    border-bottom: solid 2px #d6d9de !important;
+ 
 }
 
 body {
@@ -282,5 +282,6 @@ p {
 }
 
 .card {
-    max-height: 300px;
+        margin-top: 72px;
+        max-height: 300px;     
 }

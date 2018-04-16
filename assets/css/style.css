@@ -1,0 +1,286 @@
+.navbar-brand {
+    background-color: #4aaaa5;
+    margin-left: 13%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 10px 30px 10px;
+    font-size: 30px;
+    color: white !important;
+    border: solid 2px 2px 0px #d6d9de;
+}
+
+.navbar {
+    padding: 0px !important;
+}
+
+#masthead {
+    border-bottom: solid 2px #d6d9de !important;
+}
+
+body {
+    background-image: url(../images/escheresque_ste.png);
+}
+
+.container {
+    background-color: #ffffff;
+}
+
+nav {
+    margin-left: -5%;
+    width: 105% !important;
+    background-color: #666;
+}
+
+h1 {
+    color: #4aaaa5;
+    margin-left: 5%;
+    border-bottom: solid 2px #d6d9de;
+}
+
+header {
+    width: 100vw !important;
+}
+
+#navbarcontainer {
+    max-width: 1920px;
+}
+
+.col-md-11 abm {
+    font-size: 1.5rem !important ;
+}
+
+.col-sm-11 abm {
+    font-size: 1rem !important;
+}
+
+#main-container {
+    margin-left: 10% !important;
+}
+
+.work {
+    display: inline-block;
+    margin: 10px;
+    width: 100px !important;
+    height: auto !important;
+}
+
+.social {
+    width: 62px;
+    height: 62px;
+    margin-top: 8px;
+    margin-right: 5px;
+}
+
+.social:last-child {
+    margin-right: 0;
+}
+h2, .sidebar, h3 {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+    line-height: 5px;
+    color: #4aaaa5;
+}
+
+.sidebar {
+    background: #fff;
+    padding: 30px;
+    width: 100%;
+    max-width: 270px;
+    float: right;
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+
+#contact {
+    font-size: 22px;
+    float: right;
+    color: #d6d9de;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+#portfolio {
+    font-size: 22px;
+    float: right;
+    color: #d6d9de;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+
+#about {
+    font-size: 22px;
+    
+    color: #d6d9de;
+    margin-left: 10px;
+    margin-top: 40px;
+    }
+
+h1 {
+    background-color: #4aaaa5;
+   padding-top: 20px;
+    margin-left: 25%;
+    color: #ffffff;
+    padding: 20px;
+    margin-bottom: 0px;
+    border: 2px solid #d6d9de;
+    border-bottom: 0;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#detailBox {
+    background-image: url("../images/escheresque_ste.png");
+    width: 105%;
+    margin-left: -10px;
+    color: #063f1b;
+    margin-top: -72px;
+    border-top: solid;
+    border-color: #d6d9de;
+    border-width: 2px;
+    min-height: calc(100vh - 50px);
+    margin-right: 0;
+}
+
+#aboutMePhoto {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    border: solid;
+    border-width: 5px;
+    border-color: #4681b7;
+    margin-top: 10px;
+    width: 100%;
+    height: auto;
+    max-width: 30vw;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+footer {
+    background-color: #666666;
+    padding: 20px;
+    margin-left: -10px;
+    text-align: center;
+    border-top: solid;
+    border-width: 5px;
+    border-color: #4aaaa5;
+    margin-top: -16px;
+    width: 103%;
+    height: 50px;
+    color: #d6d9de;
+}
+
+footer span {
+    position: absolute;
+    right: 0px;
+    left: 0px;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-bottom: 3px solid #d6d9de
+}
+
+a {
+    text-decoration: none;
+    color: #d6d9de;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #d6d9de;
+}
+
+body {
+    background-color: #666666;
+    width: 95%;
+}
+
+#messageBox {
+    height: 200px;
+    width: 80%;
+}
+
+#emailform {
+    margin-left: 25%;
+}
+
+#submitButton {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+#greyline {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 5px;
+    color: #d6d8de;
+}
+
+#stuffInside {
+    padding-top: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: #ffffff;
+}
+
+#contactInside {
+    padding-top: 20px;
+    margin-left: 200px;
+    margin-right: 100px;
+    padding-bottom: 30px;
+    background-color: #ffffff;
+}
+
+portfolioButton {
+    background-color: #4aaaa5;
+    padding: 20px;
+}
+
+.cont {
+    float: left;
+    margin: 5px;
+    position: relative;
+    text-align: center;
+    color: black;
+    border: solid 2px black;
+}
+
+.game {
+    position: absolute;
+    top: 70%;
+    transform: translate(-50%, -50%);
+    background-color: #4aaaa5;
+    padding: 10px;
+    display: inline-block;
+    width: 90%;
+    border: solid 2px black;
+}
+
+.portpic {
+    height: 200px;
+    width: 200px;
+}
+
+p {
+    margin: 5px 10px 20px 10px;
+}
+
+.card {
+    max-height: 300px;
+}
